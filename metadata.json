@@ -1,0 +1,6 @@
+{
+  "name": "Atmospheric Effects Console",
+  "description": "A formal visual effects application featuring 5-second animated snowfall and floating balloon displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
